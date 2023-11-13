@@ -1,9 +1,11 @@
-[Asignacion de la tarea](https://classroom.github.com/classrooms/149103967-ull-mfp-aet-2324-alu0100099904/assignments/tema-2-chase-the-pizza)
-[Classroom](https://classroom.github.com/classrooms/149103967-ull-mfp-aet-2324-alu0100099904)
-[Organizacion](https://github.com/ull-mfp-aet-2324-alu0100099904)
-
 [![Work in MakeCode](https://classroom.github.com/assets/work-in-make-code-46eb539bcdc54ff4682c9f84a178d570a59fd821693cb33b02a3e5220eed4e48.svg)](https://classroom.github.com/online_ide?assignment_repo_id=12816978&assignment_repo_type=AssignmentRepo)
 # chase-the-pizza ![Build status badge](https://github.com/arelia/chase-the-pizza/workflows/MakeCode/badge.svg)
+
+
+## Entrega 
+- [Asignacion de la tarea](https://classroom.github.com/classrooms/149103967-ull-mfp-aet-2324-alu0100099904/assignments/tema-2-chase-the-pizza)
+- [Classroom](https://classroom.github.com/classrooms/149103967-ull-mfp-aet-2324-alu0100099904)
+- [Organizacion](https://github.com/ull-mfp-aet-2324-alu0100099904)
 
 ## Assignment
 Update the variable name so that it matches the food sprite image
